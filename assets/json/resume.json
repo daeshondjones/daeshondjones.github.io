@@ -101,6 +101,15 @@
       "endDate": "",
       "summary": "",
       "highlights": ""
+    },
+    {
+      "name": "Mozilla Bug Bounty Programs",
+      "position": "Independent Security Researcher",
+      "url": "",
+      "startDate": "2023",
+      "endDate": "",
+      "summary": "",
+      "highlights": ""
     }
   ],
   "education": [
@@ -156,7 +165,8 @@
         "C Programming Language",
         "C++ Programming Language",
         "ARM Assembly Language",
-        "MIPS Assembly Language"
+        "MIPS Assembly Language",
+        "Javascript (programming language)"
       ]
     },
     {
@@ -165,9 +175,62 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Reverse Engineering",
-        "Ghidra (Reverse Engineering Software)"
+        "Ghidra (Reverse Engineering Software)",
+        "Source Code Analysis",
+        "Burp Suite (security testing software)",
+        "OWASP ZAP (security testing software)",
+        "Frida (reverse engineering software)",
+        "Secure Code Review",
+        "Software exploit development",
+        "Return orientated programming (ROP)",
+        "WinDbg (windows debugging software)",
+        "Hardware reverse engineering",
+        "Computer Hardware Troubleshooting"
       ]
-    }
+    },
+    {
+      "name": "Software",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Google Chrome (Web browser)",
+        "Mozilla Firefox (Web browser)",
+        "Apple Safari (Web browser)",
+        "Microsoft Edge (web browser)",
+        "Mercurial (verson control system)",
+        "Svn (version control system)",
+        "Git (version control system)",
+        "Mac OS X (operating system)",
+        "Windows (operating system)",
+        "Linux (operating system)",
+        "QEMU (open-source emulator)",
+        "Android (operating system)",
+        "iOS (operating system)",
+        "iOS Software Development",
+        "Linux Software Development",
+        "Windows Software Development",
+        "Mac OS X Software Development",
+        "Android Software Development",
+        "Software Development Life Cycle (SDLC)",
+        "VirtualBox",
+        "VMware Workstation",
+        "Linux KVM (Linux Kernel Virtual Machine)",
+        "LLDB Debugger",
+        "GDB (GNU Debugger)"
+      ]
+    },
+    {
+      "name": "Industry Knowledge",
+      "level": "Advanced",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Presentation Skills",
+        "Written Communication",
+        "Leadership",
+        "Continuous Improvement",
+        "Critical Thinking"
+      ]
+    },
   ],
   "languages": [
     {
