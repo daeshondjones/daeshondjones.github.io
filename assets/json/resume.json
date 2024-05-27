@@ -50,7 +50,7 @@
   "work": [
     {
       "name": "Hackerone Bug Bounty Programs",
-      "position": "Independent Security Researcher",
+      "position": "Security Researcher",
       "url": "",
       "startDate": "2023-01-01",
       "endDate": "Present",
@@ -59,7 +59,7 @@
     },
     {
       "name": "Bugcrowd Bug Bounty Programs",
-      "position": "Independent Security Researcher",
+      "position": "Security Researcher",
       "url": "",
       "startDate": "2023-01-01",
       "endDate": "Present",
@@ -68,7 +68,7 @@
     },
     {
       "name": "Intigriti Bug Bounty Programs",
-      "position": "Independent Security Researcher",
+      "position": "Security Researcher",
       "url": "",
       "startDate": "2023-01-01",
       "endDate": "Present",
@@ -77,7 +77,7 @@
     },
     {
       "name": "Microsoft Bug Bounty Programs",
-      "position": "Independent Security Researcher",
+      "position": "Security Researcher",
       "url": "",
       "startDate": "2023-01-01",
       "endDate": "Present",
@@ -86,7 +86,7 @@
     },
     {
       "name": "Google Bug Bounty Programs",
-      "position": "Independent Security Researcher",
+      "position": "Security Researcher",
       "url": "",
       "startDate": "2023-01-01",
       "endDate": "Present",
@@ -95,7 +95,7 @@
     },
     {
       "name": "Samsung Bug Bounty Programs",
-      "position": "Independent Security Researcher",
+      "position": "Security Researcher",
       "url": "",
       "startDate": "2023-01-01",
       "endDate": "Present",
@@ -105,13 +105,13 @@
   ],
   "education": [
     {
-      "institution": "",
-      "location": "",
+      "institution": "Self-Education",
+      "location": "United States of America",
       "url": "",
-      "area": "",
+      "area": "Information Security",
       "studyType": "",
-      "startDate": "",
-      "endDate": "",
+      "startDate": "2015",
+      "endDate": "Present",
       "score": "",
       "courses": ""
     }
@@ -154,7 +154,18 @@
         "Java Programming Language",
         "Rust Programming Language",
         "C Programming Language",
-        "C++ Programming Language"
+        "C++ Programming Language",
+        "ARM Assembly Language",
+        "MIPS Assembly Language"
+      ]
+    },
+    {
+      "name": "Information Security",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Reverse Engineering",
+        "Ghidra (Reverse Engineering)"
       ]
     }
   ],
@@ -173,7 +184,7 @@
   "references": [
     {
       "name": "",
-      "icon": "fa-solid fa-laptop",
+      "icon": "",
       "reference": ""
     }
   ],
