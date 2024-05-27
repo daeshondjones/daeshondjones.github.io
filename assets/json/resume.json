@@ -50,54 +50,54 @@
   "work": [
     {
       "name": "Hackerone Bug Bounty Programs",
-      "position": "Security Researcher",
+      "position": "Independent Security Researcher",
       "url": "",
-      "startDate": "2023-01-01",
+      "startDate": "2023",
       "endDate": "",
       "summary": "",
       "highlights": ""
     },
     {
       "name": "Bugcrowd Bug Bounty Programs",
-      "position": "Security Researcher",
+      "position": "Independent Security Researcher",
       "url": "",
-      "startDate": "2023-01-01",
+      "startDate": "2023",
       "endDate": "",
       "summary": "",
       "highlights": ""
     },
     {
       "name": "Intigriti Bug Bounty Programs",
-      "position": "Security Researcher",
+      "position": "Independent Security Researcher",
       "url": "",
-      "startDate": "2023-01-01",
+      "startDate": "2023",
       "endDate": "",
       "summary": "",
       "highlights": ""
     },
     {
       "name": "Microsoft Bug Bounty Programs",
-      "position": "Security Researcher",
+      "position": "Independent Security Researcher",
       "url": "",
-      "startDate": "2023-01-01",
+      "startDate": "2023",
       "endDate": "",
       "summary": "",
       "highlights": ""
     },
     {
       "name": "Google Bug Bounty Programs",
-      "position": "Security Researcher",
+      "position": "Independent Security Researcher",
       "url": "",
-      "startDate": "2023-01-01",
+      "startDate": "2023",
       "endDate": "",
       "summary": "",
       "highlights": ""
     },
     {
       "name": "Samsung Bug Bounty Programs",
-      "position": "Security Researcher",
+      "position": "Independent Security Researcher",
       "url": "",
-      "startDate": "2023-01-01",
+      "startDate": "2023",
       "endDate": "",
       "summary": "",
       "highlights": ""
@@ -165,7 +165,7 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Reverse Engineering",
-        "Ghidra (Reverse Engineering)"
+        "Ghidra (Reverse Engineering Software)"
       ]
     }
   ],
