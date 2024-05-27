@@ -1,24 +1,49 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Daeshon Jones",
+    "label": "security researcher",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "daeshon@daeshondjones.com",
+    "phone": "",
+    "url": "https://daeshondjones.com/",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "",
+      "city": "",
       "countryCode": "US",
-      "region": "California"
+      "region": ""
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "X (Formerly twitter)",
+        "username": "daeshondjones",
+        "url": "https://x.com/daeshondjones"
+      },
+      {
+        "network": "Linkedin",
+        "username": "daeshondjones",
+        "url": "https://www.linkedin.com/in/daeshondjones/"
+      },
+      {
+        "network": "Github",
+        "username": "daeshondjones",
+        "url": "https://github.com/daeshondjones/"
+      },
+      {
+        "network": "Youtube",
+        "username": "daeshondjones",
+        "url": "https://www.youtube.com/@daeshondjones"
+      },
+      {
+        "network": "Instagram",
+        "username": "daeshondjones",
+        "url": "https://instagram.com/daeshondjones"
+      },
+      {
+        "network": "Tiktok",
+        "username": "daeshondjones",
+        "url": "https://tiktok.com/daeshondjones"
       }
     ]
   },
