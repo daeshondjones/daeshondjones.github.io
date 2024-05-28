@@ -125,15 +125,6 @@
       "courses": ""
     }
   ],
-  "awards": [
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "url": "",
-      "summary": ""
-    }
-  ],
   "certificates": [
     {
       "name": "",
@@ -166,7 +157,7 @@
         "C++ Programming Language",
         "ARM Assembly Language",
         "MIPS Assembly Language",
-        "Javascript (programming language)"
+        "Javascript Programming Language)"
       ]
     },
     {
@@ -174,18 +165,18 @@
       "level": "Intermediate",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Reverse Engineering",
-        "Ghidra (Reverse Engineering Software)",
-        "Source Code Analysis",
+        "Reverse engineering",
+        "Ghidra (reverse engineering software)",
+        "Source code analysis",
         "Burp Suite (security testing software)",
         "OWASP ZAP (security testing software)",
         "Frida (reverse engineering software)",
-        "Secure Code Review",
+        "Secure code review",
         "Software exploit development",
         "Return orientated programming (ROP)",
-        "WinDbg (windows debugging software)",
+        "Windbg (windows debugging software)",
         "Hardware reverse engineering",
-        "Computer Hardware Troubleshooting"
+        "Computer hardware troubleshooting"
       ]
     },
     {
@@ -193,9 +184,9 @@
       "level": "Intermediate",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Google Chrome (Web browser)",
-        "Mozilla Firefox (Web browser)",
-        "Apple Safari (Web browser)",
+        "Google Chrome (web browser)",
+        "Mozilla Firefox (web browser)",
+        "Apple Safari (web browser)",
         "Microsoft Edge (web browser)",
         "Mercurial (verson control system)",
         "Svn (version control system)",
