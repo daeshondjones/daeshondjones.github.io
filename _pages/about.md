@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: information security research professional.
+subtitle: Information security research professional.
 
 profile:
   align: right
