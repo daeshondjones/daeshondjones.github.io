@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /products/hammergarden/
+permalink: /hammergarden/
 title: hammergarden
 description: Information about HAMMERGARDEN.
 nav: true
