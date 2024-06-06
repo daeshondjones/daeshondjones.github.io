@@ -4,5 +4,5 @@ permalink: /trophies/
 title: trophies
 description: Information about the CVE's i found.
 nav: true
-nav_order: 10
+nav_order: 4
 ---

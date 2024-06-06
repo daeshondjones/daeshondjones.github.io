@@ -4,5 +4,5 @@ permalink: /hammergarden/
 title: hammergarden
 description: Information about HAMMERGARDEN.
 nav: true
-nav_order: 11
+nav_order: 8
 ---
