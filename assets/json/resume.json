@@ -50,7 +50,7 @@
   "work": [
     {
       "name": "Hackerone Bug Bounty Programs",
-      "position": "Independent Security Researcher",
+      "position": "Independent Information Security Research Professional",
       "url": "",
       "startDate": "2023",
       "endDate": "",
@@ -59,7 +59,7 @@
     },
     {
       "name": "Bugcrowd Bug Bounty Programs",
-      "position": "Independent Security Researcher",
+      "position": "Independent Information Security Research Professional",
       "url": "",
       "startDate": "2023",
       "endDate": "",
@@ -68,7 +68,7 @@
     },
     {
       "name": "Intigriti Bug Bounty Programs",
-      "position": "Independent Security Researcher",
+      "position": "Independent Information Security Research Professional",
       "url": "",
       "startDate": "2023",
       "endDate": "",
@@ -77,7 +77,7 @@
     },
     {
       "name": "Microsoft Bug Bounty Programs",
-      "position": "Independent Security Researcher",
+      "position": "Independent Information Security Research Professional",
       "url": "",
       "startDate": "2023",
       "endDate": "",
@@ -86,7 +86,7 @@
     },
     {
       "name": "Google Bug Bounty Programs",
-      "position": "Independent Security Researcher",
+      "position": "Independent Information Security Research Professional",
       "url": "",
       "startDate": "2023",
       "endDate": "",
@@ -95,7 +95,7 @@
     },
     {
       "name": "Samsung Bug Bounty Programs",
-      "position": "Independent Security Researcher",
+      "position": "Independent Information Security Research Professional",
       "url": "",
       "startDate": "2023",
       "endDate": "",
@@ -104,7 +104,25 @@
     },
     {
       "name": "Mozilla Bug Bounty Programs",
-      "position": "Independent Security Researcher",
+      "position": "Independent Information Security Research Professional",
+      "url": "",
+      "startDate": "2023",
+      "endDate": "",
+      "summary": "",
+      "highlights": ""
+    },
+    {
+      "name": "HackenProof Bug Bounty Programs",
+      "position": "Independent Information Security Research Professional",
+      "url": "",
+      "startDate": "2023",
+      "endDate": "",
+      "summary": "",
+      "highlights": ""
+    },
+    {
+      "name": "YesWeHack Bug Bounty Programs",
+      "position": "Independent Information Security Research Professional",
       "url": "",
       "startDate": "2023",
       "endDate": "",
