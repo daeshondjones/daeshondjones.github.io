@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Daeshon Jones",
-    "label": "security researcher",
+    "label": "Information security research professional.",
     "image": "",
     "email": "daeshon@daeshondjones.com",
     "phone": "",
@@ -211,6 +211,37 @@
       ]
     },
     {
+      "name": "Open Source Intelligence",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Digital Footprint Analysis",
+        "Online Research Techniques",
+        "Data Verification",
+        "Social Media Analysis",
+        "Cybersecurity Awareness",
+        "Tool Proficiency",
+        "Language learning skills",
+        "Language translation skills",
+        "Legal and Ethical Knowledge",
+        "Situational Adaptability",
+        "Intelligence Report Writing",
+        "Geospatial Intelligence (GEOINT)",
+        "Imagery Intelligence (IMINT)",
+        "Social Media Intelligence (SOCMINT)",
+        "Financial Intelligence (FININT",
+        "Technical Intelligence (TECHINT)",
+        "Signals Intelligence (SIGINT)",
+        "Advanced Google Search Strategies",
+        "Web Scraping",
+        "Intelligence collection",
+        "Intelligence processing",
+        "Intelligence analysis",
+        "Intelligence production",
+        "Operational Security Techniques"
+      ]
+    },
+    {
       "name": "Industry Knowledge",
       "level": "Advanced",
       "icon": "fa-solid fa-hashtag",
@@ -244,12 +275,12 @@
   ],
   "projects": [
     {
-      "name": "",
-      "summary": "",
+      "name": "hammergarden",
+      "summary": "Full spectrum dominance.",
       "highlights": "",
-      "startDate": "",
+      "startDate": "2015",
       "endDate": "",
-      "url": ""
+      "url": "https://github.com/daeshondjones/hammergarden"
     }
   ]
 }
