@@ -176,15 +176,15 @@
       "level": "Intermediate",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Python Programming Language",
-        "Go Programming Language",
-        "Java Programming Language",
-        "Rust Programming Language",
-        "C Programming Language",
-        "C++ Programming Language",
-        "ARM Assembly Language",
-        "MIPS Assembly Language",
-        "Javascript Programming Language)"
+        "Python (Programming Language)",
+        "Go (Programming Language)",
+        "Java (Programming Language)",
+        "Rust (Programming Language)",
+        "C (Programming Language)",
+        "C++ (Programming Language)",
+        "ARM (Assembly Language)",
+        "MIPS (Assembly Language)",
+        "Javascript (Programming Language)"
       ]
     },
     {
@@ -203,6 +203,7 @@
         "Software exploit development",
         "Return orientated programming (ROP)",
         "Windbg (windows debugging software)",
+        "Kali (security testing software)",
         "Hardware reverse engineering",
         "Computer hardware troubleshooting"
       ]
