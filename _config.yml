@@ -279,8 +279,8 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["macosx", "windows", "linux", "android", "ios", "hardware"] # these tags will be displayed on the front page of your blog
-display_categories: ["kernelspace", "userspace", "tutorial"] # these categories will be displayed on the front page of your blog
+display_tags: ["macosx", "windows", "linux", "android", "ios", "hardware", "kernelspace", "userspace", "tutorial", "osint"] # these tags will be displayed on the front page of your blog
+display_categories: ["macosx", "windows", "linux", "android", "ios", "hardware", "kernelspace", "userspace", "tutorial", "osint"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
