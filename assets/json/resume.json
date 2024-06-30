@@ -155,98 +155,98 @@
   "certificates": [
     {
       "name": "OffSec Certified Professional (OSCP)",
-      "date": "In present persuit",
+      "date": "",
       "issuer": "",
       "url": "https://www.offsec.com/courses/pen-200/",
       "icon": ""
     },
     {
       "name": "Offensive Security Exploitation Expert (OSEE)",
-      "date": "In present persuit",
+      "date": "",
       "issuer": "",
       "url": "https://www.offsec.com/courses/exp-401/",
       "icon": ""
     },
     {
       "name": "OffSec Exploit Developer (OSED)",
-      "date": "In present persuit",
+      "date": "",
       "issuer": "",
       "url": "https://www.offsec.com/courses/exp-301/",
       "icon": ""
     },
     {
       "name": "OffSec Web Expert (OSWE)",
-      "date": "In present persuit",
+      "date": "",
       "issuer": "",
       "url": "https://www.offsec.com/courses/web-300/",
       "icon": ""
     },
     {
       "name": "OffSec macOS Researcher (OSMR)",
-      "date": "In present persuit",
+      "date": "",
       "issuer": "",
       "url": "https://www.offsec.com/courses/exp-312/",
       "icon": ""
     },
     {
       "name": "CompTIA Security+",
-      "date": "In present persuit",
+      "date": "",
       "issuer": "",
       "url": "https://www.comptia.org/certifications/security",
       "icon": ""
     },
     {
       "name": "CompTIA PenTest+",
-      "date": "In present persuit",
+      "date": "",
       "issuer": "",
       "url": "https://www.comptia.org/certifications/pentest",
       "icon": ""
     },
     {
       "name": "CompTIA Linux+",
-      "date": "In present persuit",
+      "date": "",
       "issuer": "",
       "url": "https://www.comptia.org/certifications/linux",
       "icon": ""
     },
     {
       "name": "Practical Network Penetration Tester (PNPT)",
-      "date": "In present persuit",
+      "date": "",
       "issuer": "",
       "url": "https://certifications.tcm-sec.com/pnpt/",
       "icon": ""
     },
     {
       "name": "Practical Junior OSINT Researcher (PJOR)",
-      "date": "In present persuit",
+      "date": "",
       "issuer": "",
       "url": "https://certifications.tcm-sec.com/pjor/",
       "icon": ""
     },
     {
       "name": "Practical Web Penetration Tester™ (PWPT)",
-      "date": "In present persuit",
+      "date": "",
       "issuer": "",
       "url": "https://certifications.tcm-sec.com/pwpt/",
       "icon": ""
     },
     {
       "name": "Practical Junior IoT Tester (PJIT)",
-      "date": "In present persuit",
+      "date": "",
       "issuer": "",
       "url": "https://certifications.tcm-sec.com/pjit/",
       "icon": ""
     },
     {
       "name": "Practical Junior Mobile Tester™ (PJMT)",
-      "date": "In present persuit",
+      "date": "",
       "issuer": "",
       "url": "https://certifications.tcm-sec.com/pjmt/",
       "icon": ""
     },
     {
       "name": "Practical Junior Penetration Tester™ (PJPT)",
-      "date": "In present persuit",
+      "date": "",
       "issuer": "",
       "url": "https://certifications.tcm-sec.com/pjpt/",
       "icon": ""
