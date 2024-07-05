@@ -165,99 +165,120 @@
     {
       "name": "OffSec Certified Professional (OSCP)",
       "date": "",
-      "issuer": "",
+      "issuer": "OffSec",
       "url": "https://www.offsec.com/courses/pen-200/",
       "icon": ""
     },
     {
       "name": "Offensive Security Exploitation Expert (OSEE)",
       "date": "",
-      "issuer": "",
+      "issuer": "OffSec",
       "url": "https://www.offsec.com/courses/exp-401/",
       "icon": ""
     },
     {
       "name": "OffSec Exploit Developer (OSED)",
       "date": "",
-      "issuer": "",
+      "issuer": "OffSec",
       "url": "https://www.offsec.com/courses/exp-301/",
       "icon": ""
     },
     {
       "name": "OffSec Web Expert (OSWE)",
       "date": "",
-      "issuer": "",
+      "issuer": "OffSec",
       "url": "https://www.offsec.com/courses/web-300/",
       "icon": ""
     },
     {
       "name": "OffSec macOS Researcher (OSMR)",
       "date": "",
-      "issuer": "",
+      "issuer": "OffSec",
       "url": "https://www.offsec.com/courses/exp-312/",
       "icon": ""
     },
     {
       "name": "CompTIA Security+",
       "date": "",
-      "issuer": "",
+      "issuer": "CompTIA",
       "url": "https://www.comptia.org/certifications/security",
       "icon": ""
     },
     {
       "name": "CompTIA PenTest+",
       "date": "",
-      "issuer": "",
+      "issuer": "CompTIA",
       "url": "https://www.comptia.org/certifications/pentest",
       "icon": ""
     },
     {
       "name": "CompTIA Linux+",
       "date": "",
-      "issuer": "",
+      "issuer": "CompTIA",
       "url": "https://www.comptia.org/certifications/linux",
       "icon": ""
     },
     {
       "name": "Practical Network Penetration Tester (PNPT)",
       "date": "",
-      "issuer": "",
+      "issuer": "TCM Security",
       "url": "https://certifications.tcm-sec.com/pnpt/",
       "icon": ""
     },
     {
       "name": "Practical Junior OSINT Researcher (PJOR)",
       "date": "",
-      "issuer": "",
+      "issuer": "TCM Security",
       "url": "https://certifications.tcm-sec.com/pjor/",
       "icon": ""
     },
     {
       "name": "Practical Web Penetration Tester™ (PWPT)",
       "date": "",
-      "issuer": "",
+      "issuer": "TCM Security",
       "url": "https://certifications.tcm-sec.com/pwpt/",
       "icon": ""
     },
     {
       "name": "Practical Junior IoT Tester (PJIT)",
       "date": "",
-      "issuer": "",
+      "issuer": "TCM Security",
       "url": "https://certifications.tcm-sec.com/pjit/",
       "icon": ""
     },
     {
       "name": "Practical Junior Mobile Tester™ (PJMT)",
       "date": "",
-      "issuer": "",
+      "issuer": "TCM Security",
       "url": "https://certifications.tcm-sec.com/pjmt/",
       "icon": ""
     },
     {
       "name": "Practical Junior Penetration Tester™ (PJPT)",
       "date": "",
-      "issuer": "",
+      "issuer": "TCM Security",
       "url": "https://certifications.tcm-sec.com/pjpt/",
+      "icon": ""
+    },
+    {
+      "name": "ASCP (API Security Certified Professional)",
+      "date": "",
+      "issuer": "APIsec University",
+      "url": "https://www.apisecuniversity.com/courses/api-security-certified-professional-exam",
+      "icon": ""
+    },
+    {
+      "name": "CASA (Certified API Security Analyst)",
+      "date": "",
+      "issuer": "APIsec University",
+      "url": "https://www.apisecuniversity.com/courses/certified-api-security-analyst-exam",
+      "icon": ""
+    },
+    {
+      "name": "Certified Android Exploit Developer (CAED)",
+      "date": "",
+      "issuer": "MobileHackingLab",
+      "url": "https://www.mobilehackinglab.com/tryout-android-userland",
       "icon": ""
     }
   ],
