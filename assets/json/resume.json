@@ -156,7 +156,7 @@
       "area": "Information Security",
       "studyType": "",
       "startDate": "2015",
-      "endDate": "",
+      "endDate": "NOW",
       "score": "",
       "courses": ""
     }
@@ -261,14 +261,14 @@
       "icon": ""
     },
     {
-      "name": "ASCP (API Security Certified Professional)",
+      "name": "API Security Certified Professional (ASCP)",
       "date": "",
       "issuer": "APIsec University",
       "url": "https://www.apisecuniversity.com/courses/api-security-certified-professional-exam",
       "icon": ""
     },
     {
-      "name": "CASA (Certified API Security Analyst)",
+      "name": "Certified API Security Analyst (CASA)",
       "date": "",
       "issuer": "APIsec University",
       "url": "https://www.apisecuniversity.com/courses/certified-api-security-analyst-exam",
