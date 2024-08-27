@@ -2,7 +2,7 @@
 layout: page
 permalink: /hammergarden/
 title: hammergarden
-description: Full spectrum dominance.
+description: Veritas semper vincit
 nav: true
 nav_order: 9
 ---
